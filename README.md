@@ -16,8 +16,19 @@ Hope you find everything here useful, feel free to reach me at social media!
 - Passionate about technology, video games, comics, and memes alike.
 - Microsoft Data Platform MVP since December 2025.
 
-## GitHub stats
+## 📊 GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=l2aFa&theme=tokyonight)](https://git.io/streak-stats)
-
-![Top Languages](./profile/top-langs.svg)
+<div align="center">
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=l2aFa&theme=tokyonight" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <img src="./profile/top-langs.svg" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
