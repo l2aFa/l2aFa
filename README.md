@@ -2,6 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelbaguena)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baggirraf)
+[![Sessionize Badge](https://img.shields.io/badge/Sessionize-1D7874?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/baguena_raf)
 
 Nice to meet you, my name is l2aFa.
 
