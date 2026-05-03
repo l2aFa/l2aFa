@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there!👋🏻
 
-<!--
-**l2aFa/l2aFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelbaguena)
+[![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baggirraf)
 
-Here are some ideas to get you started:
+Nice to meet you, my name is l2aFa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hope you find everything here useful, feel free to reach me at social media!
+
+## About me
+
+- Data engineer from València, Spain.
+- Working in data & analytics solutions since 2010. 
+- I love learning new things, pushing technology further, and collaborating on projects that inspire and add value at all levels.
+- Passionate about technology, video games, comics, and memes alike.
+- Microsoft Data Platform MVP since December 2025.
+
+## GitHub stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=l2aFa&theme=tokyonight)](https://git.io/streak-stats)
+
+![Top Languages](./profile/top-langs.svg)
