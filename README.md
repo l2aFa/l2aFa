@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baggirraf)
 [![Sessionize Badge](https://img.shields.io/badge/Sessionize-1D7874?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/baguena_raf)
 
-Nice to meet you, my name is l2aFa.
+Nice to meet you, my name is Rafael Báguena Girbés.
 
 Hope you find everything here useful, feel free to reach me at social media!
 
